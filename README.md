@@ -1,4 +1,5 @@
 
+![Screenshot 2024-04-23 165336](https://github.com/Ishita-212/Rndom-Qoutes/assets/117344800/2ef552d2-a854-4eb4-9e3b-91caf0afc691)
 
 You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery to complete this project. 
 
@@ -23,3 +24,4 @@ User Story #9: My quote machine should fetch the new quote's author when the #ne
 User Story #10: I can tweet the current quote by clicking on the #tweet-quotea element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet the current quote.
 
 User Story #11: The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
+
